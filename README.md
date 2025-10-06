@@ -1,17 +1,17 @@
 # 🧥 Wearcast
 
-**Wearcast** είναι μια Android εφαρμογή που προτείνει καθημερινά outfits με βάση τις καιρικές συνθήκες και τα ρούχα του χρήστη.  
-Αναπτύχθηκε στο πλαίσιο πανεπιστημιακού μαθήματος με χρήση **Kotlin** και **Jetpack Compose**.
+**Wearcast** is an Android application that suggests daily outfits based on the weather and the user's wardrobe.  
+It was developed as part of a university course using **Kotlin** and **Jetpack Compose**.
 
-## ✨ Κύρια χαρακτηριστικά
-- Προτάσεις ντυσίματος ανάλογα με τον καιρό (OpenWeather API)  
-- Ψηφιακή ντουλάπα με προσθήκη/διαγραφή ρούχων  
-- Αποθήκευση δεδομένων με **Room Database**  
-- Αυτόματος εντοπισμός τοποθεσίας  
+## ✨ Key Features
+- Outfit suggestions based on the weather (OpenWeather API)  
+- Digital wardrobe with add/remove clothing items  
+- Data storage with **Room Database**  
+- Automatic location detection  
 
-## ⚙️ Τεχνολογίες
+## ⚙️ Technologies
 **Kotlin** · **Jetpack Compose** · **Room** · **Retrofit** · **OpenWeather API**
 
-## 👥 Ομάδα
-**Σίντι Βρουσάι** · **Ελένη Σκεπαρνιά**  
-*Επιβλέπων:* Μάριος Φραγκούλης
+## 👥 Team
+**Sindy Vrousai** · **Eleni Skeparnia**  
+*Supervisor:* Marios Fragoulis
